@@ -1,4 +1,4 @@
-local library, notifications = loadstring(game:HttpGet("https://raw.githubusercontent.com/i77lhm/Libraries/refs/heads/main/Priv9/Library.lua"))()
+local library, notifications = loadstring(game:HttpGet("https://raw.githubusercontent.com/vuInerability/Priv9/refs/heads/main/Example.lua"))()
 
 local window = library:window({
 	name = "priv9",
